@@ -1,0 +1,271 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "rating_N3ndTU": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9d7780f7-e0fa-4079-8035-1c44c3ee18f8": {
+          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "custom_liquid_CirgCt": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div>\n<table id=\"product-table\">\n<tr class=\"table-row\">\n<td class=\"left-cell cell\">\n16OZ CANDLE\n<\/td>\n<td class=\"center-cell cell\">\nMADE IN THE USA\n<\/td>\n<td class=\"cell right-cell\">\nSOY COCONUT WAX BLEND\n<\/td>\n<\/tr>\n<\/table>\n<\/div>\n<style>\n#product-table {\nborder-collapse: collapse;\nborder-top: 2px solid black;\nborder-bottom: 2px solid black;\nwidth: 100%;\nbox-shadow: none;\ntext-align: center;\n}\n\n.left-cell {\nwidth: 25%;\nmin-width: 125px;\n}\n\n.center-cell {\nwidth: 30%;\nborder-right: 2px solid black !important;\nborder-left: 2px solid black !important;\nmin-width: 150px;\n}\n.right-cell {\n min-width: 225px;\n}\n\n.cell {\npadding: 0.3em !important;\n}\n<\/style>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "text_GyyXic": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>We prioritize the emotional connection over specific scents allowing you to preserve joyful moments forever.<\/strong><\/em><strong>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "rating_N3ndTU",
+        "price",
+        "9d7780f7-e0fa-4079-8035-1c44c3ee18f8",
+        "custom_liquid_CirgCt",
+        "description",
+        "buy_buttons",
+        "share",
+        "text_GyyXic"
+      ],
+      "custom_css": [
+        ".thumbnail,.product-media-container .media {border-radius: 40px; border: 1px solid black; background-color: white;}",
+        ".product {max-width: 1000px; margin: 0px auto;}",
+        ".price-item {font-size: 32px;}",
+        ".no-left-border {border-left: none;}",
+        ".product__media {height: 150px;}",
+        "li.thumbnail-list__item {min-width: 140px; max-height: 120px;}",
+        "@media (max-width: 1006px) {.product {margin-left: 25px; margin-right: 25px; }}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-d671617c-8f2f-45e2-837f-ce5887dfe3ea",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "bad843f50fd38268cc89": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "b268437f4f76f67950c1": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "d9d1f7007355e07259ea": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "60ca7c5e34cef84907a0": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "8763314d813b83411c4f": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "aa447f9b6f372edb2831": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "31f1dab3611fc3eee77c": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "bad3924fef6fae2cf848": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "b2782c7976c71b2698ec": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "custom_css": [
+        ".card__inner.color-background-2 {background-color: transparent;}",
+        "li {background-color: white; border-radius: 40px; border: 1px solid black; display: flex; flex-direction: column; justify-content: center; max-width: 380px;}",
+        ".card__information {padding: 0px;}",
+        "a {text-align: center; font-size: 28px; text-decoration: none;}",
+        ".media {display: flex; align-content: center; justify-content: center; align-items: center;}",
+        ".card__content {padding-bottom: 0px !important;}"
+      ],
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-c3b189de-5622-421d-b9a6-5d73ae04a67c",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_fdVWqF": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center; font-size: 32px;}",
+        ".isolate {border-top: 2px solid black;}",
+        "slider-component {margin: 0px auto; max-width: 1200px;}",
+        ".slider__slide:first-child {margin: 0px;}",
+        "ul {column-gap: 60px;}",
+        "a:hover {text-decoration: none;}",
+        "h3 {text-align: center; font-size: 20px;}",
+        "li {width: 30%;}",
+        "@media (max-width: 989px) {.slider--tablet.grid--peek .grid__item {box-sizing: inherit; min-width: 300px; } .slider__slide:first-child {margin-left: 70rem; } .slider {margin-bottom: 0px; }}"
+      ],
+      "settings": {
+        "title": "YOU MAY ALSO LIKE",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-products",
+        "products_to_show": 5,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-c3b189de-5622-421d-b9a6-5d73ae04a67c",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "multirow_yGnwyk": {
+      "type": "multirow",
+      "blocks": {
+        "row_PwUByc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/web-3a-moment-candlesmyshopifycom_r1_03E_8244.jpg",
+            "caption": "THE ENGAGEMENT CANDLE",
+            "heading": "MEET OUR NEW RELEASE",
+            "text": "<p>Embrace love's journey with our Engagement Memory Vessel. Infused with the essence of romance, each scent celebrates cherished beginnings. Illuminate the ambiance of commitment and treasure every moment shared.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/ever-after"
+          }
+        }
+      },
+      "block_order": [
+        "row_PwUByc"
+      ],
+      "custom_css": [
+        ".image-with-text:first-child {background-color: #ffeb8a; border: 1px solid black; \/* Add this line *\/}",
+        ".global-media-settings {border-left: 0px solid black;}",
+        ".multirow__inner {border-bottom: 1px solid black;}"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bad843f50fd38268cc89",
+    "b268437f4f76f67950c1",
+    "d9d1f7007355e07259ea",
+    "60ca7c5e34cef84907a0",
+    "8763314d813b83411c4f",
+    "aa447f9b6f372edb2831",
+    "31f1dab3611fc3eee77c",
+    "bad3924fef6fae2cf848",
+    "b2782c7976c71b2698ec",
+    "related-products",
+    "featured_collection_fdVWqF",
+    "multirow_yGnwyk"
+  ]
+}

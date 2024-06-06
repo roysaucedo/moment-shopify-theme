@@ -1,0 +1,142 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "collapsible_content_AqkLqP": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_94e9VA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How soon can I expect my order to arrive?",
+            "icon": "check_mark",
+            "row_content": "<p>Hey there! We aim to ship your memory vessels within 24 hours of your order. We offer different shipping options, so you can pick what suits you best during checkout. Any questions? Just shoot us an email! We're more responsive than you'd expect.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_76VTcL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your process for returns or exchanges?",
+            "icon": "check_mark",
+            "row_content": "<p>If your memory vessel isn't sparking joy, shoot us an email at <a>ryan@momentmemories.com<\/a>. We'll sort you out with a return or exchange with no questions asked. Simple as that!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pHkwTj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What should I do if my item arrives damaged?",
+            "icon": "check_mark",
+            "row_content": "<p>Oops, did your memory vessel take a knock on its journey? No worries! This is not typical, but send us a quick email with some pics at <a>info@momentmemories.com<\/a>, and we'll make it right.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LhK8BX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship to destinations outside the country?",
+            "icon": "check_mark",
+            "row_content": "<p>Right now, we're shipping within the US. Keep an eye out for updates on international shipping as we grow!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BwfLyV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Which payment options do you accept?",
+            "icon": "check_mark",
+            "row_content": "<p>We've got you covered with major credit\/debit cards and Apple Pay. Your info is safe with us. Got questions? Feel free to reach out!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HKzCFy": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_FLdHr7": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_B6TBEd": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_RPLkwp": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_94e9VA",
+        "collapsible_row_76VTcL",
+        "collapsible_row_pHkwTj",
+        "collapsible_row_LhK8BX",
+        "collapsible_row_BwfLyV",
+        "collapsible_row_HKzCFy",
+        "collapsible_row_FLdHr7",
+        "collapsible_row_B6TBEd",
+        "collapsible_row_RPLkwp"
+      ],
+      "custom_css": [
+        ".gradient {height: 830px; display: flex; flex-direction: column; justify-content: center;}",
+        ".accordion {padding: 10px 10px; width: 700px; max-width: 95vw; border: 2px solid black; border-bottom: none;}",
+        ".accordion:last-child {border-bottom: 2px solid black;}",
+        ".accordion:nth-child(5n + 1) {background: #ffb24d;}",
+        ".accordion:nth-child(5n + 2) {background: #ffa1e4;}",
+        ".accordion:nth-child(5n + 3) {background: #009e78;}",
+        ".accordion:nth-child(5n + 4) {background: #ffeb8a;}",
+        ".accordion:nth-child(5n + 5) {background: #88d1a2;}",
+        "h3 {font-size: 18px;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FREQUENTLY ASKED QUESTIONS",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-fb874324-186d-40d0-91c4-1f05bb67a5b5",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_content_AqkLqP"
+  ]
+}

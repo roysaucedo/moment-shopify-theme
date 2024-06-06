@@ -1,0 +1,37 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_ejHWFA": {
+      "type": "contact-form",
+      "custom_css": [
+        ".gradient {min-height: 830px; display: flex; flex-direction: column; justify-content: center;}",
+        ".contact {margin: 0px auto; width: 800px; max-width: 90%;}",
+        "h2 {text-align: center;}",
+        "input {background: white;}",
+        "button {color: black;}",
+        "textarea {background: white;}"
+      ],
+      "settings": {
+        "heading": "CONTACT",
+        "heading_size": "h0",
+        "color_scheme": "scheme-7e29588e-499e-4aa2-9558-085c81384800",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact_form_ejHWFA"
+  ]
+}

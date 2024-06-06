@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "featured_collection_E68grq": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".card__inner {display: none;}",
+        ".title {text-align: center; font-size: 32px; font-weight: 500; letter-spacing: 2px;}",
+        "li {text-align: center; display: flex; justify-content: center; margin: 0px auto; max-width: 170px; background: #88d1a2;}",
+        "li:nth-child(2n) {background: #009e78;}",
+        "li:nth-child(3n) {background: #ffeb8a;}",
+        "li:nth-child(4n) {background: #ffa1e4;}",
+        "li:nth-child(5n) {background: #ffb249;}",
+        "h3 {font-size: 18px;}",
+        "hr,.card-information,.price,.sbc {display: none;}",
+        ".card-wrapper {background: none; border: none; padding: unset;}"
+      ],
+      "settings": {
+        "title": "SHOP BY MOMENT",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-products",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 16
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "custom_liquid_HCmXtX": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".marquee {height: 50px; width: 100%; color: black; overflow: hidden; position: relative; padding: 12px 0px; border-top: 1px solid black; border-bottom: 1px solid black;}",
+        ".marquee div {display: block; width: 200%; height: 30px; position: absolute; overflow: hidden; animation: marquee 30s linear infinite;}",
+        ".marquee span {float: left; min-width: 330px; width: 10%;}",
+        ".color-background-1 {border-top: 2px solid black;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"marquee\">\n  <div>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n    <span>THE PERFECT CANDLE FOR EVERY MOMENT<\/span>\n  <\/div>\n<\/div>",
+        "color_scheme": "scheme-c3b189de-5622-421d-b9a6-5d73ae04a67c",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        ".card__inner {background: none;}",
+        "li {background: white; border-radius: 40px; border: 1px solid black; display: flex; flex-direction: column; justify-content: center; max-width: 350px;}",
+        ".card__information {padding: 0;}",
+        "h3 {text-align: center; font-size: 28px; text-decoration: none;}",
+        ".media {display: flex; align-content: center; justify-content: center; align-items: center;}",
+        ".card__content {padding-bottom: 0px;}",
+        "#product-grid {max-width: 1167px; margin: 0px auto; column-gap: 5%; row-gap: 70px;}",
+        "@media (max-width: 590px) {h3 {font-size: 22px; }}"
+      ],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-d671617c-8f2f-45e2-837f-ce5887dfe3ea",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "skip_featured_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "multicolumn_KaEBCf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XB6aqQ": {
+          "type": "column",
+          "settings": {
+            "title": "STEP ONE",
+            "text": "<h1>LIGHT<\/h1><p>Before lighting your candle, set the intention—in whatever way that means to you—and be mindful of the moment you are about to capture. Take note of your surroundings and feelings to strengthen the memory.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_j6CpgQ": {
+          "type": "column",
+          "settings": {
+            "title": "STEP TWO",
+            "text": "<h1>CAPTURE<\/h1><p>With your candle lit, be fully present knowing the essence of this event is being preserved. Extinguish the flame after the time you want to remember passes. Jot down the moment captured and date on your candle to reinforce the memory. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_M9zjpc": {
+          "type": "column",
+          "settings": {
+            "title": "STEP THREE",
+            "text": "<h1>RELIVE<\/h1><p>Relight your candle anytime you wish to return to a saved memory. The power of Moment will transport you there.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XB6aqQ",
+        "column_j6CpgQ",
+        "column_M9zjpc"
+      ],
+      "custom_css": [
+        "ul {width: fit-content; max-width: 1300px; margin: 0 auto; padding: 0 10px; \/* Increased padding for visibility *\/ column-gap: 50px; display: flex; justify-content: center;}",
+        "li {padding: 10px 30px; border-radius: 50px; max-width: 400px; border: 1px solid black; font-weight: 500;}",
+        ".multicolumn-card.content-container {background: none;}",
+        "li:first-child {background: #ffeb8a;}",
+        "li:nth-child(2n) {background: #ffb24c;}",
+        "li:nth-child(3n) {background: #ffa1e4;}",
+        "h1 {margin-top: 20px;"
+      ],
+      "settings": {
+        "vertical": false,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-c3b189de-5622-421d-b9a6-5d73ae04a67c",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 44
+      }
+    },
+    "image_with_text_VJikCr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_riyrqx": {
+          "type": "heading",
+          "settings": {
+            "heading": "CAPTURE YOUR MOMENT",
+            "heading_size": "h1"
+          }
+        },
+        "text_t9xyG9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Make your candle uniquely yours by writing your moment and its date directly on it with the marker we provide. It's a personal touch that solidifies memories with every flicker of the flame.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_riyrqx",
+        "text_t9xyG9"
+      ],
+      "custom_css": [
+        ".image-with-text__media-item {padding: 50px;}",
+        ".image-with-text__media {border: 1px solid black; border-radius: 40px;}",
+        "h2 {font-size: 46px; letter-spacing: 3px; font-weight: 500;}",
+        ".image-with-text__content {max-width: 800px;}",
+        ".grid__item {border: none;}",
+        ".image-with-text {border-right: none; border-left: none;}",
+        ".vert-logo {display: none;}",
+        "@media (max-width: 500px) {h2 {font-size: 32px; } img {min-width: 700px; position: relative; } .media {display: flex; justify-content: center; } .image-with-text__content {padding: 0% 15% 15% 15% !important; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/web-48-moment-candlesmyshopifycom_r1_03E_8341.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_kgfeXz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MUCmGK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MomentBranding_Elements-16.png",
+            "title": "UP TO 80 HOURS OF BURN TIME",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YbAPbq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MomentBranding_Elements-17.png",
+            "title": "MADE IN THE UNITED STATES",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PqxaEd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MomentBranding_Elements-18.png",
+            "title": "FULLY REUSABLE GLASS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8Mcz9L": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MomentBranding_Elements-19.png",
+            "title": "NATURAL SOY WAX BLEND",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MUCmGK",
+        "column_YbAPbq",
+        "column_PqxaEd",
+        "column_8Mcz9L"
+      ],
+      "custom_css": [
+        ".multicolumn-list {max-width: 900px; margin: 0px auto;}",
+        ".multicolumn-card__info {padding-top: 1.5rem;}",
+        "hr {display: none;}",
+        "h3 {font-size: 14px; width: 110px; margin: 0px auto;}",
+        ".multicolumn {border-top: 1px solid black;}"
+      ],
+      "settings": {
+        "vertical": false,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-fb874324-186d-40d0-91c4-1f05bb67a5b5",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "multirow_z8rFEN": {
+      "type": "multirow",
+      "blocks": {
+        "row_7mBBax": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/web-3a-moment-candlesmyshopifycom_r1_03E_8244.jpg",
+            "caption": "I SAID YES VESSEL",
+            "heading": "MEET OUR BESTSELLER",
+            "text": "<p>The quintessential engagement candle. Illuminate your shared joy and milestones as you embark on this beautiful journey together. Light this candle to celebrate and capture the essence of your love story.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/ever-after"
+          }
+        }
+      },
+      "block_order": [
+        "row_7mBBax"
+      ],
+      "custom_css": [
+        ".multirow__inner > .image-with-text {background-color: #ffb24d;}",
+        ".image-with-text__media-item {width: 45%;}",
+        ".image-with-text__media {border-left: 1px solid black;}",
+        ".multirow {border-bottom: 1px solid black;}",
+        ".button:hover {background: black; color: white;}"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "featured_collection_E68grq",
+    "banner",
+    "custom_liquid_HCmXtX",
+    "product-grid",
+    "multicolumn_KaEBCf",
+    "image_with_text_VJikCr",
+    "multicolumn_kgfeXz",
+    "multirow_z8rFEN"
+  ]
+}

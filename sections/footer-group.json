@@ -1,0 +1,55 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "brand_information_NqxMfD": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
+        "link_list_aGy8YW": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "brand_information_NqxMfD",
+        "link_list_aGy8YW"
+      ],
+      "custom_css": [
+        ".footer-block {width: 100%;}",
+        ".footer__blocks-wrapper {flex-direction: column; row-gap: 0;}",
+        "ul {column-count: 2; min-width: 200px;}",
+        ".footer__content-top {display: flex; justify-content: space-between; margin: 0% 5%; flex-wrap: wrap-reverse;}",
+        "a {text-decoration: none; line-height: 1; font-weight: 500;}",
+        "li {height: 30px; font-size: 16px;}",
+        ".field__input {background-color: white; width: 400px; max-width: 78vw;}",
+        "@media (max-width: 749px) {.footer__content-top {justify-content: center; row-gap: 30px; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-c3b189de-5622-421d-b9a6-5d73ae04a67c",
+        "newsletter_enable": true,
+        "newsletter_heading": "UNLOCK 10% OFF ON YOUR FIRST ORDER:",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

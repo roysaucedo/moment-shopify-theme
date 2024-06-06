@@ -1,0 +1,430 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>TIME IS FLEETING, BUT MEMORIES DON'T NEED TO BE<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_DD4MEq": {
+          "type": "text",
+          "settings": {
+            "text": "CAPTURE THEM WITH MOMENT",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "CAPTURE NOW",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_DD4MEq",
+        "button"
+      ],
+      "custom_css": [
+        ".button--secondary:hover {background-color: #000; color: #fff;}",
+        "a.button {background: white; box-shadow: none !important;}",
+        ".banner {padding: 0px; margin-top: -5px; margin-bottom: -2px; width: 100vw; background-size: cover;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/gradient-bg-optimized.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "custom_liquid_iQhFgd": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".marquee {height: 50px; width: 100%; color: black; overflow: hidden; position: relative; padding: 10px 10px; border-top: 2px solid black; border-bottom: 2px solid black;}",
+        ".marquee div {display: block; width: 200%; height: 30px; position: absolute; overflow: hidden; animation: marquee 30s linear infinite;}",
+        ".marquee span {float: left; min-width: 330px; width: 10%;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"marquee\">\n  <div>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n  <\/div>\n  <div>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n    <span>FOLLOW YOUR NOSE DOWN MEMORY LANE<\/span>\n  <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_K4YQd4": {
+      "type": "rich-text",
+      "blocks": {
+        "text_izVWP9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A familiar scent is associated with many memories, watering all of them down. That’s why each Nostalgia candle burns a proprietary aroma you can’t smell anywhere else. Your candle and memory will be exclusively linked, so you can relive how you felt during the most important times of your life.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_izVWP9"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".rich-text__wrapper {}",
+        ".isolate {position: relative; z-index: 10; background-color: 009e78;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-d671617c-8f2f-45e2-837f-ce5887dfe3ea",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 40
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        "a {text-decoration: none;}",
+        ".card__inner {background: none;}",
+        ".collection {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0853\/0522\/9601\/files\/fullfeaturedAsset_3.svg?v=1707894039); background-size: cover;}",
+        "p {text-align: center; max-width: 900px; margin: 0px auto; font-weight: 600; padding: 15px; font-size: 18px;}",
+        "ul {padding-top: 0px;}",
+        "hr,.price,.sbc {display: none;}",
+        ".card__heading {background: white; padding: 10px; width: 140px; text-align: center; margin: 0px auto;}",
+        ".card__heading:hover {background: black; color: white;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "<p><\/p><p><strong>The Only Candle Designed To Capture & Relive Moments.<\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-d671617c-8f2f-45e2-837f-ce5887dfe3ea",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_HGrDUh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xA9946": {
+          "type": "heading",
+          "settings": {
+            "heading": "CAPTURE YOUR MOMENT",
+            "heading_size": "h1"
+          }
+        },
+        "text_Cw8N3c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Personalize your candle with the Moment marker - we include one in the box!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_D4D6TV": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xA9946",
+        "text_Cw8N3c",
+        "button_D4D6TV"
+      ],
+      "custom_css": [
+        ".image-with-text__media-item {padding: 50px;}",
+        ".image-with-text__media {border: 1px solid black; border-radius: 40px;}",
+        "h2 {font-size: 46px; letter-spacing: 3px; font-weight: 500;}",
+        ".image-with-text__content {max-width: 800px;}",
+        ".grid__item {border: none;}",
+        ".image-with-text {border-right: none; border-left: none;}",
+        ".vert-logo {display: none;}",
+        "@media (max-width: 600px) {h2 {font-size: 32px; } img {min-width: 700px; position: relative; } .media {display: flex; justify-content: center; } .image-with-text__content {padding: 0% 15% 15% 15% !important; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/web-47-moment-candlesmyshopifycom_r1_03E_8368.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_dPPixG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jLNJLg": {
+          "type": "column",
+          "settings": {
+            "title": "STEP ONE",
+            "text": "<h1><strong>LIGHT<\/strong><\/h1><p>Set your intention, mindful of the moment you are about to capture. Take note of your surroundings and feelings to strengthen the memory. <br\/><br\/>Personalize your Moment using the enclosed marker.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yrgwRT": {
+          "type": "column",
+          "settings": {
+            "title": "STEP TWO",
+            "text": "<h1><strong>CAPTURE<\/strong><\/h1><p>With your candle lit, be fully present knowing the essence of this event is being preserved. Extinguish the flame after the time you want to remember passes. Jot down the moment captured and date on your candle to reinforce the memory. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Njinta": {
+          "type": "column",
+          "settings": {
+            "title": "STEP THREE",
+            "text": "<h1><strong>RELIVE<\/strong><\/h1><p>Light your candle anytime you wish to return to your memory. The power of Moment will transport you there.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jLNJLg",
+        "column_yrgwRT",
+        "column_Njinta"
+      ],
+      "custom_css": [
+        ".multicolumn-card {background: none; margin-top: -15px; \/* Adjust this value to your desired distance from the top *\/}",
+        ".multicolumn-card:last-of-type {margin-bottom: -40px;}",
+        "h1 {margin-top: 0px; margin-bottom: 0px;}",
+        "p {max-width: 400px; margin: 0px auto;}",
+        ".multicolumn {border-top: 1px solid black;}"
+      ],
+      "settings": {
+        "vertical": true,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-c3b189de-5622-421d-b9a6-5d73ae04a67c",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_7fJRGU": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".marquee {height: 25px; width: 100%; color: black; overflow: hidden; position: relative;}",
+        ".marquee div {display: block; width: 200%; height: 30px; position: absolute; overflow: hidden; animation: marquee 26s linear infinite;}",
+        ".marquee span {float: left; min-width: 210px; width: 9%;}",
+        ".color-background-1 {border-top: 1px solid black; border-bottom: 1px solid black;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"marquee\">\n  <div>\n    <span>HAND POURED IN THE USA<\/span>\n       <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n    <span>HAND POURED IN THE USA<\/span>\n  <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_ADr3yh": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".marquee {height: 25px; width: 100%; color: black; overflow: hidden; position: relative;}",
+        ".marquee div {display: block; width: 200%; height: 30px; position: absolute; overflow: hidden; animation: marquee-right 23s linear infinite;}",
+        ".marquee span {float: left; min-width: 200px; width: 9%;}",
+        ".color-background-1 {border-bottom: 1px solid black;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"marquee\">\n  <div>\n    <span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n<span>NATURAL COCONUT + SOY WAX BLEND<\/span>\n    \n  <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_NUnWcg": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".marquee {height: 25px; width: 100%; color: black; overflow: hidden; position: relative;}",
+        ".marquee div {display: block; width: 200%; height: 30px; position: absolute; overflow: hidden; animation: marquee 26s linear infinite;}",
+        ".marquee span {float: left; min-width: 190px; width: 8%;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"marquee\">\n  <div>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n    <span>60-80 HOUR BURN TIME<\/span>\n  <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_X6GYRd": {
+      "type": "multirow",
+      "blocks": {
+        "row_Upc7Bf": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-03_at_6.16.35_PM.png",
+            "caption": "",
+            "heading": "IT'S LIKE TIME TRAVEL.",
+            "text": "<p>Our candles are more than just scents – they are memory-capture vessels. Our proprietary blend of science-backed fragrances enable you to associate each candle with a cherished moment, making it uniquely yours. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_3HYDKe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/web-39-moment-candlesmyshopifycom_r1_03E_8267.jpg",
+            "caption": "",
+            "heading": "CAPTURE WITH CONFIDENCE.",
+            "text": "<p>Light up without fear. Our candles are all natural and cruelty-free, made of smooth burning coconut and soy wax with 60-80 hours of exquisite burn time. We'll guarantee you'll love what you get, or your money back with no questions asked!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_Upc7Bf",
+        "row_3HYDKe"
+      ],
+      "custom_css": [
+        ".image-with-text:nth-child(2n) {background-color: #ffb24d;}",
+        ".image-with-text:first-child {background-color: #ffeb8a;}",
+        ".caption-with-letter-spacing {display: none;}",
+        "h2 {font-size: 30px;}",
+        ".image-with-text__media-item {width: 45%;}",
+        ".image-with-text:nth-child(2n) {border-bottom: 1px solid black; \/* Add this line *\/}",
+        ".image-with-text:first-child > .grid > .image-with-text__media-item {border-left: 1px solid black;}",
+        ".image-with-text:nth-child(2n) > .grid > .image-with-text__media-item {border-right: 1px solid black;}"
+      ],
+      "settings": {
+        "image_height": "large",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_gzA9Ua": {
+      "type": "multicolumn",
+      "custom_css": [
+        "li {max-width: 280px; border-top: 100px solid black;}",
+        "ul {display: flex; align-items: center; row-gap: 40px; justify-content: center; padding-top: 60px; padding-left: 5%; padding-right: 5%;}",
+        ".isolate {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0853\/0522\/9601\/files\/CANDLEAsset_5.svg?v=1707682286); height: 320px; background-size: contain; background-position-y: top; background-color: transparent;}",
+        ".multicolumn {background: none; position: relative; z-index: 2;}",
+        "@media (max-width: 1431px) {.isolate {background-size: cover; }}"
+      ],
+      "settings": {
+        "vertical": false,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-d671617c-8f2f-45e2-837f-ce5887dfe3ea",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_H4P3VR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4WgmLe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>OUR WHY<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_4YKRfy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alright, let's talk magic. You know those scents that instantly transport you to treasured moments? For many of us at Moment, those scents are more than just fragrances; they're like keys unlocking the doors to our fondest memories.<\/p><p>Here's the scoop: our team of top-notch fragrance designers and brilliant scientists have infused every Moment product with a blend of expertise and passion. We're dedicated to capturing life's most precious moments and making them last.<\/p><p>But here's where the magic really happens: with every Moment purchase, you're not just indulging in nostalgia; you're also spreading joy. A portion of our proceeds goes to Make-A-Wish, helping to grant wishes for terminally ill children facing critical illnesses.<\/p><p>So, as you bask in the warmth of nostalgia with our scents, you're also spreading rays of hope and happiness to those who need it most.<\/p><p>Ready to embark on a journey filled with nostalgia, joy, and maybe a sprinkle of magic? Trust us, you won't regret it.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4WgmLe",
+        "text_4YKRfy"
+      ],
+      "custom_css": [
+        ".isolate {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0853\/0522\/9601\/files\/cbgAsset_5.png?v=1707465613); background-size: cover; padding-top: 140px; padding-bottom: 50px; margin-top: -140px; border-bottom: 1px solid black;}",
+        ".rich-text {background: none;}",
+        ".rich-text__wrapper {margin: 0 auto; padding: 0px 2%;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 88,
+        "padding_bottom": 84
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "custom_liquid_iQhFgd",
+    "rich_text_K4YQd4",
+    "featured_collection",
+    "image_with_text_HGrDUh",
+    "multicolumn_dPPixG",
+    "custom_liquid_7fJRGU",
+    "custom_liquid_ADr3yh",
+    "custom_liquid_NUnWcg",
+    "multirow_X6GYRd",
+    "multicolumn_gzA9Ua",
+    "rich_text_H4P3VR"
+  ]
+}
