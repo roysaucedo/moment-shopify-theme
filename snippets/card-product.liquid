@@ -59,7 +59,6 @@
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
               {%- if skip_featured_image -%}
               <img
-                <img
                   srcset="
                     {%- if card_product.media[1].width >= 165 -%}{{ card_product.media[1] | image_url: width: 165 }} 165w,{%- endif -%}
                     {%- if card_product.media[1].width >= 360 -%}{{ card_product.media[1] | image_url: width: 360 }} 360w,{%- endif -%}
